@@ -8,6 +8,7 @@ After experiencing the latest Windows 11 system, I always felt that the UI loadi
 For the Chinese version of the feature introduction, please visit: <https://www.52pojie.cn/thread-1711609-1-1.html>  
 中文版功能介绍请访问：<https://www.52pojie.cn/thread-1711609-1-1.html>
 
-## Download
+## Download/Compile
 Please visit the [Release page](https://github.com/luluandpipi/PowerBox/releases) to download the latest version of PowerBox.  
+
 If you want to compile the source code into an executable by yourself using Nuitka or PyInstaller, please download `resources.zip` from the Release page, extract it, and place the resources folder in the directory where your .exe file is located, then run it.
